@@ -1,0 +1,8 @@
+{
+  "name": "Remix AnimeWorld Task Generator",
+  "description": "Automatically generates a structured 20-step roadmap for building a stylized Three.js anime-themed 3D environment in modular code blocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
